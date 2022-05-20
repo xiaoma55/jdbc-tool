@@ -32,9 +32,9 @@ JDBC_TOOL_GOD_VERSION.jar
 
 1. 前往release页面下载`JDBC_TOOL.zip `
 
-2. 修改config文件夹下数据库的相关信息。
+2. 修改`config`文件夹下`数据库的相关信息`。
 
-3. lib目录下传入自己需要的驱动jar包。
+3. `lib`目录下传入自己需要的`驱动jar`包。
 
 4. 启动jar包
 
