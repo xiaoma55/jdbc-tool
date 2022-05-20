@@ -28,16 +28,18 @@
 JDBC_TOOL_GOD_VERSION.jar
 ```
 
-### 启动说明
+### 使用说明
 
-1. 修改配置文件修改自己数据库的相关信息。
+1. 前往release页面下载`JDBC_TOOL.zip `
 
-2. 在lib目录下传入自己需要的驱动jar包。
+2. 修改config文件夹下数据库的相关信息。
 
-3. 启动jar包
+3. lib目录下传入自己需要的驱动jar包。
 
-    ```
-    java -Dloader.path=lib -jar 
-    ```
+4. 启动jar包
+
+```
+java -Dloader.path=lib -jar 
+```
 
     
